@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hi ist bin Prathiksha
 und i ned milch
+=======
+hi ist bin Prathiksha   
+>>>>>>> 55d8564b778348f70e324978c3d7b2fa831de20d
