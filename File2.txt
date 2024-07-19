@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Prathiksha
+=======
+H@weri@;
+@shwer@iu;
+>>>>>>> 9ed30cbeedfddafb8fe6ece97b87442f9dadc624
