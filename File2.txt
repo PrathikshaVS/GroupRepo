@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Prathiksha
 =======
 H@weri@;
 @shwer@iu;
 >>>>>>> 9ed30cbeedfddafb8fe
+=======
+@shwer@iu;
+Our edit.
+>>>>>>> b6ec2fbac987f43766a7072354a147f1967623e3
