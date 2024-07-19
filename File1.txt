@@ -1,2 +1,6 @@
 hi Hallo Guten Morgen
+<<<<<<< HEAD
 wo ist groB und ist bin Scheten
+=======
+wo ist groB
+>>>>>>> 9511be0 (commit1)
